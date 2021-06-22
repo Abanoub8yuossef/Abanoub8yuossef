@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Abanoub8yuossef
-- 👀 I’m interested in Machine Learning
-- 🌱 I’m currently learning Data analysis advanced from Udacity
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Abanoub yuossef
+- 👀 I’m interested in Artificial intelligence and Machine Learning
+- 🌱 I’m currently learning Data structure 
+- 💞️ I’m looking to collaborate on ...any machine learning challenges 
+- 📫 How to reach me ...[LinkedIn](https://www.linkedin.com/in/abanoub-youssef-920462109/)
 
 <!---
 Abanoub8yuossef/Abanoub8yuossef is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
