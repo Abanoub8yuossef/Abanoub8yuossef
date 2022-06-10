@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Abanoub yuossef
 - 👀 I’m interested in Artificial intelligence and Machine Learning
-- 🌱 I’m currently learning Data structure 
 - 💞️ I’m looking to collaborate on ...any machine learning challenges 
 - 📫 How to reach me ...[LinkedIn](https://www.linkedin.com/in/abanoub-youssef-920462109/)
 
